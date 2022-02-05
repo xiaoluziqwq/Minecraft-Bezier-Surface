@@ -2,7 +2,9 @@
 我的世界贝塞尔曲面绘制js
 输出格式为：
 > bezier test 
+> 
 > finish 642ms , length:14022
+> 
 > -62,17,115,log 2
 
 使用方式：
